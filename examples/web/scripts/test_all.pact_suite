@@ -1,0 +1,3 @@
+# Suite Script to run all individual test scripts
+
+RunDir	scripts
